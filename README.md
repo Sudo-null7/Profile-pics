@@ -1,5 +1,5 @@
 # Profile-pics
-Custom Default Profile pics with some customs
+Default Profile pics
 
 <img src="Black.png" alt="drawing" width="200"/>
 <img src="Blue.png" alt="drawing" width="200"/>
@@ -20,3 +20,4 @@ Custom Default Profile pics with some customs
 <img src="Windows7.png" alt="drawing" width="200"/>
 <img src="Yellow.png" alt="drawing" width="200"/>
 <img src="moon.png" alt="drawing" width="200"/>
+<img src="sharkie.png" alt="drawing" width="200"/>
